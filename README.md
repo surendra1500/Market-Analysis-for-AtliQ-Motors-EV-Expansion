@@ -1,7 +1,9 @@
 # Market-Analysis-for-AtliQ-Motors-EV-Expansion
+
 Problem Statement:
 
 AtliQ Motors is an automotive giant from the USA specializing in electric vehicles (EV). In the last 5 years, their market share rose to 25% in electric and hybrid vehicles segment in North America. As a part of their expansion plans, they wanted to launch their bestselling models in India where their market share is less than 2%. The chief of AtliQ Motors India wanted to do a detailed market study of existing EV/Hybrid market in India before proceeding further. He has given this task to the data analytics team of AtliQ motors
+
 
 #Tools
 PowerBi Desktop
@@ -13,7 +15,9 @@ DAX language
 Power Query Editor
 
 
+
 #Dataset
+
 electric_vehicle_sales_by_state.csv
 
 date: The date on which the data was recorded. Format: DD-MMM-YY. (Data is recorded on a monthly basis)
@@ -34,6 +38,7 @@ dim_date.csv
 date: The specific date for which the data is relevant. Format: DD-MMM-YY. (Data is recorded on a monthly basis)
 fiscal_year: The fiscal year to which the date belongs. This is useful for financial and business analysis.
 quarter: The fiscal quarter to which the date belongs. Fiscal quarters are typically divided as Q1, Q2, Q3, and Q4.
+
 
 #Few Key Points:
 
